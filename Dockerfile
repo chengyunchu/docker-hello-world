@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Brian Christner
+MAINTAINER Chengyun Chu
 
 # Install base packages
 RUN apt-get update && \
